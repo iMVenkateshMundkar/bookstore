@@ -1,0 +1,19 @@
+{
+    "books": [
+        {
+            "author":"ABCD",
+            "price":300,
+            "id":1
+        },
+        {
+            "author":"BCDE",
+            "price":400,
+            "id":2
+        },
+        {
+            "author":"CDEF",
+            "price":500,
+            "id":3
+        }
+    ]
+}
